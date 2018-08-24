@@ -207,7 +207,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [LogiSync](http://logisync.com/)
 * [Longsight](http://www.longsight.com/)
 * [Lufthouse](http://lufthouse.com/)
-* [LunchOwl](www.lunchowl.com/)
+* [LunchOwl](http://www.lunchowl.com/)
 * [MacroPoint](http://www.macropoint.com/)
 * [MakerGear](http://www.makergear.com/)
 * [Main Sequence Technology](https://www.pcrecruiter.net/main-sequence/career-opportunities/) - maker of PCRecruiter
